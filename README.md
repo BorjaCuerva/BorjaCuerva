@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Borja</h1>
-<h3 align="center">Desarrollador Front End</h3>
+<h2 align="center">Desarrollador Front End</h2>
 
 - 🌱 Actualmente estoy estudiando **Nuxt3, Astro, Typescript**
 
